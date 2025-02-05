@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "excel4node": "^1.8.2",
+    "nodemon": "^3.1.7"
+  }
+}
